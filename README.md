@@ -13,6 +13,14 @@ Welcome to **100_days_100_web_project** – a challenge-based repository to **le
 | DAY-1 | TODOLIST | [TODOLIST]() | Task manager app |
 | DAY-2 | DIGITAL CLOCK | [DIGITAL CLOCK]() | Real-time digital clock |
 | Day 3  | **Calculator**      | [Link]()       | Basic calculator functionality|
+| Day 4  | Jewellery-company landing page      | [Link]()       | Jewellery-company landing page|
+| Day 5  | Random Image Generator      | [Link]()       | Random Image Generator|
+| Day 6  | New Year Countdown      | [Link]()       | New Year Countdown|
+| Day 7  | 	Stylish Animated loginpage      | [Link]()       | 	Stylish Animated loginpage|
+| Day 8  | BMI Calculator      | [Link]()       | BMI Calculator|
+| Day 9  | QR Generator      | [Link]()       | QR Generator|
+| Day 10  | Rock Paper Scissors Game      | [Link]()       | Rock Paper Scissors Game|
+| Day 11  | Reading Journal      | [Link]()       | Reading Journal|
 | ...    | ...                 | ...            | ...                         |
 | Day 100+ | **Coming Soon**  | 🚧             | 🚧                           |
 
